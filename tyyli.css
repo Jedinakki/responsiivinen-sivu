@@ -13,6 +13,7 @@ body {
 a{
     text-decoration: none;
     color:azure
+    font-size:1vw;
 }
 .contain {
   max-width: 1100px;
@@ -55,4 +56,5 @@ td, th {
 
 tr:nth-child(even) {
   background-color: rgb(73, 73, 73);
+
 }
