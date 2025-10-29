@@ -28,6 +28,7 @@ a{
 }
 .navbar ul {
   display: flex;
+  flex-wrap: no-wrap;
   list-style-type: none;
 }
 .navbar a {
@@ -58,6 +59,7 @@ tr:nth-child(even) {
   background-color: rgb(73, 73, 73);
 
 }
+
 
 
 
