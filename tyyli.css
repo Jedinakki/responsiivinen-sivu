@@ -75,5 +75,8 @@ tr:nth-child(even) {
 .navbar a {
   padding: 0;
 }
-
+main { 
+  width: 100%;
 }
+}
+
